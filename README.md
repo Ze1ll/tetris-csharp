@@ -28,7 +28,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/tetris-csharp.git
+git clone https://github.com/Ze1ll/tetris-csharp.git
 ```
 
 2. Откройте проект в Visual Studio или запустите через командную строку:
